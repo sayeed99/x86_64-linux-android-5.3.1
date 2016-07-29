@@ -27,7 +27,7 @@ cherry-pick
  
 	In android source navigate to build
 
-            https://github.com/sayeed99/build/commit/fc2d12a52863363910abbc0508fbde9f24a534f0
+            https://github.com/sayeed99/build/commit/eb2c4a675532e425f656e4ef6ed135e747b8994b
 
 	In frameworks/base
 
