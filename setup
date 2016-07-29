@@ -1,0 +1,15 @@
+#!/bin/bash
+clear
+echo "Setting up toolchain for use"
+cd libexec/gcc/x86_64-linux-android/5.3.1
+echo "unziping cc1"
+unzip cc1.zip
+echo "unziping cc1plus"
+unzip cc1plus.zip
+echo "unziping lto1"
+unzip lto1.zip
+echo "removing cc1.zip cc1plus.zip and lto1.zip"
+rm cc1.zip cc1plus.zip lto1.zip
+echo "all done"
+echo " "
+echo "Happy compiling :) "
